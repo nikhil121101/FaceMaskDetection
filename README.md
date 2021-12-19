@@ -27,7 +27,7 @@ Our face mask detector doesn't use any morphed masked images dataset and the mod
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
 
-This dataset consists of __~6k images__ belonging to two classes:
+This dataset consists of __~12k images__ belonging to two classes:
 *	with_mask and without_mask
 
 ## :key: Prerequisites
